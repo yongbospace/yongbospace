@@ -4,10 +4,7 @@
 
 ### 🎺 Plan to learn ... Flutter / Go Lang 
 
-##### yongbospace@gmail.com 📨
-
-##### Thank you !!!
-
+##### Thank you 🇰🇷 yongbospace@gmail.com 📨
 <!--
 **yongbospace/yongbospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
