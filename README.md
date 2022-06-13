@@ -1,9 +1,12 @@
 ### 🎸 I studied ... HTML5 CSS3 JS
-### 🌱 I’m currently learning ... DART lang
-### 🎺 Plan to learn ... Flutter / Go Lang 
-### 📫 yongbospace@gmail.com 
 
-# Thank you !!!
+### 🌱 I’m currently learning ... DART lang
+
+### 🎺 Plan to learn ... Flutter / Go Lang 
+
+##### yongbospace@gmail.com 📨
+
+##### Thank you !!!
 
 <!--
 **yongbospace/yongbospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
