@@ -1,8 +1,8 @@
-### 🎸 I studied ... HTML5 CSS3 JS
+#### 🎸 I studied ... HTML5 / CSS3 / JS
 
-### 🌱 I’m currently learning ... DART lang
+#### 🌱 I’m currently learning ... DART lang
 
-### 🎺 Plan to learn ... Flutter / Go Lang 
+#### 🎺 Plan to learn ... Flutter / Go Lang 
 
 ##### Thank you 🇰🇷 yongbospace@gmail.com 📨
 <!--
