@@ -1,6 +1,6 @@
 #### 🎸 I studied ... HTML5 / CSS3 / JS /DART lang Basic
 
-#### 🌱 I’m currently learning ... Flutter lang
+#### 🌱 I’m currently learning ... Flutter
 
 #### 🎺 Plan to learn ... Go Lang 
 
