@@ -1,4 +1,4 @@
-#### 🎸 I studied ... HTML5 / CSS3 / JS /DART lang Basic
+#### 🎸 I studied ... HTML5 / CSS3 / JS /DART Lang Basic
 
 #### 🌱 I’m currently learning ... Flutter
 
