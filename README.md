@@ -6,7 +6,7 @@
 
 ##### Thank you 🇰🇷
 ##### yongbospace@gmail.com 💌
-##### http://yongbospace.github.io 📝
+##### http://blog.naver.com/yonbs 📝
 <!--
 **yongbospace/yongbospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
