@@ -1,8 +1,9 @@
 #### 🎸 I studied ... HTML5 / CSS3 / JS /DART Lang Basic
 
-#### 🌱 I’m currently learning ... Flutter
+#### 🌱 I’m currently learning ... Flutter / GoLang Basic
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 
-#### 🎺 Plan to learn ... Go Lang 
+#### 🎺 Plan to learn ... Network, deep in DB
 
 ##### Thank you 🇰🇷
 ##### yongbospace@gmail.com 💌
