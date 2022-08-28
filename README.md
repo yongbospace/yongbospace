@@ -1,14 +1,18 @@
-Studied :\n
+##Studied :
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 
 
-Currently Learing :\n
+##Currently Learing :
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"><img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 
-Plan to Learn :\n
-Network, DataBase
+##Plan to Learn :
 
-Enjoying :\n
+###Network, DataBase
+
+##Enjoying :
+
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"><img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=Ableton Live&logoColor=white">
 
 ##### Thank you 🇰🇷
