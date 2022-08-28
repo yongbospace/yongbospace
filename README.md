@@ -9,7 +9,7 @@
 
 ## Plan to Learn :
 
-Network, DataBase
+Network, <img src="https://img.shields.io/badge/Databass-Databass-green">
 
 ## Enjoying :
 
