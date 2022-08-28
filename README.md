@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 #### 🌱 I’m currently learning ... Flutter / GoLang Basic
-<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=Golang&logoColor=white">
+<img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 
 #### 🎺 Plan to learn ... Network, deep in DB
 
