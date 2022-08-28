@@ -9,7 +9,7 @@
 
 ## Plan to Learn :
 
-<img src="https://img.shields.io/badge/-Network-green"> <img src="https://img.shields.io/badge/-Databass-green">
+<img src="https://img.shields.io/badge/-Network-green"> <img src="https://img.shields.io/badge/-Databass-brown">
 
 ## Enjoying :
 
