@@ -5,7 +5,7 @@
 
 ## Currently Learing :
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/C++-00ADD8?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/C++-FF6347?style=for-the-badge&logo=C++&logoColor=white">
 
 ## Plan to Learn :
 
