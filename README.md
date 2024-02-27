@@ -3,17 +3,20 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/-Network-00B5E2?style=for-the-badge&logo=Network&logoColor=white">
 
 
-## Currently Learing :
+## Currently Using :
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF6347?style=for-the-badge&logo=C&logoColor=white">
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) [![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=NestJS&logoColor=white)](https://nestjs.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
-## Plan to Learn :
 
-<img src="https://img.shields.io/badge/-Databass-brown">
+## Currently Learning :
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org/) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://golang.org/)
+
 
 ## Enjoying :
 
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">  <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=Ableton Live&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">   <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=Ableton Live&logoColor=white">
 
 ##### Thank you 🇰🇷
 ##### yongbospace@gmail.com 💌
