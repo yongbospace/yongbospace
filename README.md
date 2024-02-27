@@ -5,8 +5,7 @@
 
 ## Currently Learing :
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/C++-FF6347?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-3CB043?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF6347?style=for-the-badge&logo=C&logoColor=white">
 
 ## Plan to Learn :
 
@@ -18,7 +17,7 @@
 
 ##### Thank you 🇰🇷
 ##### yongbospace@gmail.com 💌
-##### http://blog.naver.com/yonbs 📝
+##### https://yongbo.tistory.com 📝
 <!--
 **yongbospace/yongbospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
