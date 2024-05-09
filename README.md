@@ -5,8 +5,8 @@
 
 ## Currently Using :
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) [![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=NestJS&logoColor=white)](https://nestjs.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) [![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=NestJS&logoColor=white)](https://nestjs.com/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+ [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
 
 ## Currently Learning :
