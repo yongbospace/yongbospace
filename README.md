@@ -20,7 +20,7 @@
 
 ## Enjoying :
 
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">   <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=Ableton Live&logoColor=white"> [![Real Book](https://img.shields.io/badge/Real%20Book-Jazz%20-993333?style=for-the-badge)](https://en.wikipedia.org/wiki/Real_Book)
+[![Real Book](https://img.shields.io/badge/Real%20Book-Jazz%20-993333?style=for-the-badge)](https://en.wikipedia.org/wiki/Real_Book)
 
 
 ##### Thank you 🇰🇷
